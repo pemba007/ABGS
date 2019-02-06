@@ -3791,3 +3791,13 @@ object {
 .gallery-caption {
   display: block;
 }
+
+/* ----------------------------------------------------------- CUSTOM CSS -------------------------------------------------------*/
+
+/* Header Logo  */
+.menuStyle1 .is-sticky .site-header{
+	background-color: #eee !important;
+}
+.is-sticky .site-header .custom-logo-link img{
+	width: 100px !important;
+}
